@@ -1,0 +1,12 @@
+{
+  "name": "tarea-3",
+  "version": "1.0.0",
+  "description": "tarea de peliculas",
+  "main": "tarea3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node tarea3.js"
+  },
+  "author": "Hansy",
+  "license": "ISC"
+}
